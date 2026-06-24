@@ -29,7 +29,7 @@
 - материалы:
 как ставить по шагам:
 https://www.dmosk.ru/miniinstruktions.php?mini=ollama-llm-linux
-![схема ИИ с агентами] (Screenshot_2026-06-24-09-55-46-424_com.deepseek.chat.jpg)
+![схема ИИ с агентами](https://github.com/Romanru5116/AI/blob/116dad261155030e8581cf35397f27835f3b8cf2/PIC/Screenshot_2026-06-24-09-55-46-424_com.deepseek.chat.jpg)
 
     -материалы общих знаний про суть ИИ- токены и вот это вот все просто и наглядно 
 https://youtu.be/sSAIC8GQRe8?si=nSQWdonwxIH6AH4Q
