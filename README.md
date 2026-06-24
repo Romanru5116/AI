@@ -11,7 +11,7 @@
 оьновлен список материалов 
      - статус: 2406
 игрался с косольным вводом,вывод:надо искать модельку посвежее, ответы имеющейся версии больше описательные типа "можно погуглить по таким словам"
-- СТАТУС: 2306
+    - СТАТУС: 2306
 развернута платформа ollama и над ней LLM gamma -толстая порядка 13ГБ
 
 ![работакомандстатус](https://github.com/Romanru5116/AI/blob/8e2abfd968d3d5b236a5ea0bb5e7fb4002e788a4/PIC/Screenshot%20Ollamacommandfrom%202026-06-23%2017-16-01.png)
@@ -20,7 +20,7 @@
 
 ![развертывание](https://github.com/Romanru5116/AI/blob/8e2abfd968d3d5b236a5ea0bb5e7fb4002e788a4/PIC/Screenshot%20Ollama2%20from%202026-06-23%2001-42-04.png)
 
-материалы:
+- материалы:
 как ставить по шагам:
 https://www.dmosk.ru/miniinstruktions.php?mini=ollama-llm-linux
 ![схема ИИ с агентами] (Screenshot_2026-06-24-09-55-46-424_com.deepseek.chat.jpg)
