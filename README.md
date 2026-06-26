@@ -13,7 +13,8 @@
     -  статус 2606
     -  пытаемся ставить web UI
     -  ![как](https://github.com/Romanru5116/AI/blob/2acaa6836cd4fcb16d45db99708b1d7b38db9b76/PIC/ScreenshotOpenwebHow%20from%202026-06-26%2011-13-44.png)
-    -  ![результатНе достигнут](https://github.com/Romanru5116/AI/blob/2acaa6836cd4fcb16d45db99708b1d7b38db9b76/PIC/ScreenshotOpenwbUIinstall%20%20from%202026-06-26%2011-02-31.png)
+    -  
+    -  ![результат_не достигнут](https://github.com/Romanru5116/AI/blob/2acaa6836cd4fcb16d45db99708b1d7b38db9b76/PIC/ScreenshotOpenwbUIinstall%20%20from%202026-06-26%2011-02-31.png)
   
     - статус 2406
 заключение: 
