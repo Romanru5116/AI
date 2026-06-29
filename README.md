@@ -10,8 +10,11 @@
 ОС ubuntu 
 средства мониторинга hw: локальный Prometheus+ grafana
     - ход проекта
+    - статус 2906
+      добавленматериал как писать агента для ИИ
+      ![развернули другую модель](https://github.com/Romanru5116/AI/blob/96b5152db7dec6b88bf58a0da7407edd6aaf7994/PIC/ScreenshotOllamaInstall%20from%202026-06-29%2014-18-03.png)
     -  статус 2606
-    -  пытаемся ставить web UI
+  n -   пытаемся ставить web UI
     -  ![как](https://github.com/Romanru5116/AI/blob/2acaa6836cd4fcb16d45db99708b1d7b38db9b76/PIC/ScreenshotOpenwebHow%20from%202026-06-26%2011-13-44.png)
     -  результат Не достигнут- порт занят графана
     -  ![результат](https://github.com/Romanru5116/AI/blob/8d8600a6041519e54f6adb12d2e6a730c0048e0a/PIC/ScreenshotWEbUI_portBusy%20from%202026-06-26%2011-29-54.png)
@@ -36,6 +39,10 @@
 как ставить по шагам:
 https://www.dmosk.ru/miniinstruktions.php?mini=ollama-llm-linux
 ![схема ИИ с агентами](https://github.com/Romanru5116/AI/blob/116dad261155030e8581cf35397f27835f3b8cf2/PIC/Screenshot_2026-06-24-09-55-46-424_com.deepseek.chat.jpg)
+
+как написать агента
+https://qwenlm.github.io/qwen-code-docs/ru/blog/thinks-like-a-programmer/
+несколько картинок в pic
 
     -материалы общих знаний про суть ИИ- токены и вот это вот все просто и наглядно 
 https://youtu.be/sSAIC8GQRe8?si=nSQWdonwxIH6AH4Q
