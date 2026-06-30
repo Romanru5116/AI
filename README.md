@@ -11,8 +11,8 @@
 средства мониторинга hw: локальный Prometheus+ grafana
     - ход проекта
     -  статус 3006
-    -  проведен эксперимент1
-    -  и эксперимент2
+    -  проведен эксперимент1 https://github.com/Romanru5116/AI/blob/6f5a0f5aa2d20e92054f03a7aeb4e1f1738d8c37/experiment1.md
+    -  и эксперимент2 https://github.com/Romanru5116/AI/blob/c92f77ea0d71ab3a922ef5a36ccc6a813355e667/experiment2.md
     - ВЫВОДЫ: нагрузка увеличивается, зависимость непонятна.
        - пришлось заново разворачивать модель на ноутбук
       ![ollama](https://github.com/Romanru5116/AI/blob/0b0986d82ce764f6af3abea756e4e2f215a85188/PIC/Screensho%D0%B5Ollama%20InsxtallAgain%20from%202026-06-30%2018-14-52.png)
