@@ -43,7 +43,10 @@ https://www.dmosk.ru/miniinstruktions.php?mini=ollama-llm-linux
 как написать агента
 https://qwenlm.github.io/qwen-code-docs/ru/blog/thinks-like-a-programmer/
 несколько картинок в pic
-
+материалы web_ui
+Совет 1. В Open WebUI можно поставить любую модель для Ollama из списка поддерживаемых
+Для этого достаточно перейти по ссылке https://ollama.com/library и с помощью поисковой строки найти нужную модель. Если в названии модели нет префикса до /, значит она загружена разработчиками Ollama и проверена на работоспособность, если есть — эта модель загружена сообществом.
+_
     -материалы общих знаний про суть ИИ- токены и вот это вот все просто и наглядно 
 https://youtu.be/sSAIC8GQRe8?si=nSQWdonwxIH6AH4Q
 
