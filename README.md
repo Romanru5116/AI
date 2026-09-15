@@ -12,13 +12,14 @@
 средства мониторинга hw: локальный Prometheus+ grafana
     - ход проекта
     - статус 150926
-    изучаем использование AI для написания кода
-    c чего начать
+    <H2> изучаем использование AI для написания кода
+    <details>
+<summary>как начать</summary>
      ИИ-Инструменты и Среды (Главное оружие)Вместо стандартных IDLE или чистых редакторов, вайб-кодинг на Python требует сред с глубокой интеграцией AI-агентов. [1] (https://timeweb.cloud/blog/vibe-coding), [2] (https://daily.dev/posts/python-vibe-coding-tools-x2zp7phxw)
-     *Cursor: На данный момент — главная AI-IDE (форк VS Code). Идеально подходит для Python. Функции Composer (Multi-Edits) позволяют ИИ менять код сразу в нескольких файлах проекта по одному запросу. [1] (https://lpmotor.ru/articles/top-10-instrumentov-dla-vibe-codinga-v-2026-2606), [2] (https://daily.dev/posts/python-vibe-coding-tools-x2zp7phxw), [3] (https://timeweb.cloud/blog/vibe-coding)
-     *Claude Code / Claude 3.7 Sonnet: Агентный CLI-инструмент от Anthropic. Вы запускаете его прямо в терминале вашего Python-проекта, и он сам пишет код, запускает скрипты, видит ошибки исполнения и исправляет их. [1] (https://www.linkedin.com/pulse/making-magic-vibe-coding-python-claude-beginners-scott-traylor-ed-m--n3vxc), [2] (https://www.kimi.ai/ru/resources/best-vibe-coding-tools), [3] (https://lpmotor.ru/articles/top-10-instrumentov-dla-vibe-codinga-v-2026-2606)
-     *Windsurf: Еще одна продвинутая AI-IDE с глубоким контекстным пониманием всей вашей кодовой базы на Python. [1] (https://www.iphones.ru/iNotes/top-10-servisov-dlya-vaybkodinga-sozdaem-veb-servisy-bez-znaniya-koda-), [2] (https://lpmotor.ru/articles/top-10-instrumentov-dla-vibe-codinga-v-2026-2606)
-    
+     * Cursor: На данный момент — главная AI-IDE (форк VS Code). Идеально подходит для Python. Функции Composer (Multi-Edits) позволяют ИИ менять код сразу в нескольких файлах проекта по одному запросу. [1] (https://lpmotor.ru/articles/top-10-instrumentov-dla-vibe-codinga-v-2026-2606), [2] (https://daily.dev/posts/python-vibe-coding-tools-x2zp7phxw), [3] (https://timeweb.cloud/blog/vibe-coding)
+     * Claude Code / Claude 3.7 Sonnet: Агентный CLI-инструмент от Anthropic. Вы запускаете его прямо в терминале вашего Python-проекта, и он сам пишет код, запускает скрипты, видит ошибки исполнения и исправляет их. [1] (https://www.linkedin.com/pulse/making-magic-vibe-coding-python-claude-beginners-scott-traylor-ed-m--n3vxc), [2] (https://www.kimi.ai/ru/resources/best-vibe-coding-tools), [3] (https://lpmotor.ru/articles/top-10-instrumentov-dla-vibe-codinga-v-2026-2606)
+     * Windsurf: Еще одна продвинутая AI-IDE с глубоким контекстным пониманием всей вашей кодовой базы на Python. [1] (https://www.iphones.ru/iNotes/top-10-servisov-dlya-vaybkodinga-sozdaem-veb-servisy-bez-znaniya-koda-), [2] (https://lpmotor.ru/articles/top-10-instrumentov-dla-vibe-codinga-v-2026-2606)
+       </details>
     -  статус 3006
     -  проведен эксперимент1 https://github.com/Romanru5116/AI/blob/6f5a0f5aa2d20e92054f03a7aeb4e1f1738d8c37/experiment1.md
     -  проведен эксперимент2 https://github.com/Romanru5116/AI/blob/c92f77ea0d71ab3a922ef5a36ccc6a813355e667/experiment2.md
