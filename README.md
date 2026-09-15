@@ -11,8 +11,8 @@
 ОС ubuntu 
 средства мониторинга hw: локальный Prometheus+ grafana
     - ход проекта
-    - статус 150926
-    <H2> изучаем использование AI для написания кода
+    ### статус 150926
+    ## изучаем использование AI для написания кода
     <details>
 <summary>как начать</summary>
      ИИ-Инструменты и Среды (Главное оружие)Вместо стандартных IDLE или чистых редакторов, вайб-кодинг на Python требует сред с глубокой интеграцией AI-агентов. [1] (https://timeweb.cloud/blog/vibe-coding), [2] (https://daily.dev/posts/python-vibe-coding-tools-x2zp7phxw)
@@ -27,7 +27,7 @@
        - пришлось заново разворачивать модель на ноутбук
       ![ollama](https://github.com/Romanru5116/AI/blob/0b0986d82ce764f6af3abea756e4e2f215a85188/PIC/Screensho%D0%B5Ollama%20InsxtallAgain%20from%202026-06-30%2018-14-52.png)
   
-    - статус 2906
+    ### статус 2906
       добавленматериал как писать агента для ИИ
       ![развернули другую модель](https://github.com/Romanru5116/AI/blob/96b5152db7dec6b88bf58a0da7407edd6aaf7994/PIC/ScreenshotOllamaInstall%20from%202026-06-29%2014-18-03.png)
     -  статус 2606
