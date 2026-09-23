@@ -14,8 +14,8 @@
  
     ### статус 230926
     ####изучаем cursor 
-     - разные модели https://cursor.com/learn/how-ai-models-work
-     - галлюцинации https://cursor.com/learn/hallucination-limitations
+     * разные модели https://cursor.com/learn/how-ai-models-work
+     * галлюцинации https://cursor.com/learn/hallucination-limitations
      
     ### статус 150926
     ## изучаем использование AI для написания кода
