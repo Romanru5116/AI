@@ -16,7 +16,10 @@
     ####изучаем cursor 
      * разные модели https://cursor.com/learn/how-ai-models-work
      * галлюцинации https://cursor.com/learn/hallucination-limitations
-     
+
+     ### решаемая задача: равзеруть AI
+     ### статус 011026
+     выходим на циклическую ошибку авторизации
     ### статус 150926
     ## изучаем использование AI для написания кода
     <details>
