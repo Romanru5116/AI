@@ -36,6 +36,7 @@ LLM (языковая модель) выступает в роли «мозга�
      * разные модели https://cursor.com/learn/how-ai-models-work
      * галлюцинации https://cursor.com/learn/hallucination-limitations
 
+## решаемая задача пытаемся кодить на cursor AI
      ### решаемая задача: равзеруть AI
      ### статус 011026
      выходим на циклическую ошибку авторизации
