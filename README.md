@@ -17,6 +17,7 @@
 ## решаемая задача- понимем что claude
 
 [статья](https://habr.com/ru/articles/1017668/)
+уставновили https://github.com/Romanru5116/AI/blob/40aed5a4201380fdde3f99a970188ade4ddd9e5b/PIC/AI_CLOUDEinstScreenshot%20from%202026-11-09%2018-19-12.png
 
 ## решаемая задача копим контент для понимания что такое агент
 <details>
